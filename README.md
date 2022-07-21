@@ -1,4 +1,10 @@
 ### Olá 💚! Meu nome é Thaissa Vitória!
+
+<div align="justify">
+🎓 Cursando o 3° período de Engeharia de Computação no CEFET-MG, CAMPUS V.
+
+📚 Estudando sobre Algoritmo e Estrutura de Dados, explorando as linguagens C e C++.
+</div>
 <div align="center">
   <a href="https://github.com/thaissavitoria">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=thaissavitoria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
