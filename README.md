@@ -1,7 +1,7 @@
 ### Olá 💚! Meu nome é Thaissa Vitória!
 
 <div align="justify">
-🎓 Cursando o 4° período de Engeharia de Computação no CEFET-MG, CAMPUS V.
+🎓 Cursando o 5° período de Engeharia de Computação no CEFET-MG, CAMPUS V.
 
 📚 Estudando sobre Algoritmo e Estrutura de Dados, explorando as linguagens C e C++.
 </div>
