@@ -3,14 +3,12 @@
 <div align="justify">
 🎓 Cursando o 10° período de Engenharia de Computação no CEFET-MG, CAMPUS V.
 
-📚 Estudando OpenGL e Game Engines, explorando as linguagens C++ e C#.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thaissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thaissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thaissa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Thaissa-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" alt="Thaissa-img" src="assets/thaissa.png"/>
-</div> 
+📚 Estudando OpenGL e Game Engines, explorando as linguagens C++ e Python.
+</div>
+<div align="center">
+  <a href="https://github.com/thaissavitoria">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaissavitoria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   ##
  
