@@ -2,7 +2,7 @@
 <div align="justify">
 🎓 10th semester Computer Engineering student at CEFET-MG, Campus V.
   
-📚 Deepening my knowledge in C++, C and Python.
+📚 Deepening my knowledge in C++ and Python.
 </div>
 
 ##
