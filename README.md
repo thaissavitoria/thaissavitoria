@@ -1,7 +1,5 @@
 ### Hello 💚! My name is Thaissa Vitória!
-<div align="justify">
-🎓 Computer Engineer | CEFET-MG.
-  
+<div align="justify"> 
 📚 Deepening my knowledge in C++, Python and Computer Graphics.
 </div>
 
