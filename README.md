@@ -1,8 +1,8 @@
 ### Hello 💚! My name is Thaissa Vitória!
 <div align="justify">
-🎓 10th semester Computer Engineering student at CEFET-MG, Campus V.
+🎓 Computer Engineer | CEFET-MG.
   
-📚 Deepening my knowledge in C++ and Python.
+📚 Deepening my knowledge in C++, Python and Computer Graphics.
 </div>
 
 ##
